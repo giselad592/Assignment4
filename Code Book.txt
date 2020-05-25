@@ -1,0 +1,27 @@
+Code Book
+==========
+
+subject_id: Identifies each if the 30 participants in the study
+        1-30
+        
+activity: Which activity the subject was performing while collecting data:
+        laying
+        sitting
+        standing
+        walking
+        walking_downstairs
+        walking_upstairs
+        
+Average_mean_x: For each participant in each activity, we have taken the average out of all the observations for the mean of the body acceleration signals on the x-axis.
+
+Average_mean_y: For each participant in each activity, we have taken the average out of all the observations for the mean of the body acceleration signals on the y-axis.
+
+Average_mean_z: For each participant in each activity, we have taken the average out of all the observations for the mean of the body acceleration signals on the z-axis.
+
+Average_std_x: For each participant in each activity, we have taken the average out of all the observations for the standard deviation of the body acceleration signals on the x-axis.
+
+Average_std_y: For each participant in each activity, we have taken the average out of all the observations for the standard deviation of the body acceleration signals on the y-axis.
+
+Average_std_z: For each participant in each activity, we have taken the average out of all the observations for the standard deviation of the body acceleration signals on the z-axis.
+
+        
